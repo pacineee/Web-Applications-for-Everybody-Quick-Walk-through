@@ -16,7 +16,7 @@ Below sections headers is to be used for quick navigation.
 - [License](#license)
 - [Author Info](#author-info)
 
-[Back To The Top](# Web-Applications-for-Everybody-Quick-Walk-through)
+[Back To The Top](#Web-Applications-for-Everybody-Quick-Walk-through)
 
 ---
 
@@ -26,7 +26,7 @@ MIT License
 
 Copyright (c) [2022] [Pacifique Nezerwa]
 
-[Back To The Top](# Web-Applications-for-Everybody-Quick-Walk-through)
+[Back To The Top](#Web-Applications-for-Everybody-Quick-Walk-through)
 
 ---
 
@@ -35,4 +35,4 @@ Copyright (c) [2022] [Pacifique Nezerwa]
 - Twitter - [@PNezerwa](https://twitter.com/PNezerwa)
 - LinkedIn - [Pacifique Nezerwa](https://www.linkedin.com/in/pacifique-nezerwa-5a5290204)
 
-[Back To The Top](## Web-Applications-for-Everybody-Quick-Walk-through)
+[Back To The Top](#Web-Applications-for-Everybody-Quick-Walk-through)
