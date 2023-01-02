@@ -24,7 +24,7 @@ Below sections headers is to be used for quick navigation.
 
 MIT License
 
-Copyright (c) [2022] [Pacifique Nezerwa]
+Copyright (c) [2023] [Pacifique Nezerwa]
 
 [Back To The Top](#Web-Applications-for-Everybody-Quick-Walk-through)
 
