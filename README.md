@@ -7,7 +7,7 @@ Below sections headers is to be used for quick navigation.
 
 - [Introduction](https://github.com/pacineee/Web-Applications-for-Everybody-Quick-Walk-through/blob/main/Introduction.md)
 - [HTML](https://github.com/pacineee/Web-Applications-for-Everybody-Quick-Walk-through/blob/main/Html.md)
-- [CSS](#CSS)
+- [CSS](https://github.com/pacineee/Web-Applications-for-Everybody-Quick-Walk-through/blob/main/css.md)
 - [JavaScript](#JavaScript)
 - [PHP](#PHP)
 - [SQL](#Database)

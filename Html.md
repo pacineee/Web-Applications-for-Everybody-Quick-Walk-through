@@ -19,7 +19,7 @@ Below is a pic showing anatomy of HTML element, take p (Paragraph) as an element
 An element which have an opening tag should also have a closing tag, 
 Meanwhile on other side there are self closing tag elements for instance image (< img src="" alt="" />).
 
-To sum up below is a HTML **cheat sheet**
+To sum up below is a quick HTML **cheat sheet**
 
 ![The Ultimate HTML 5 Cheat Sheet](https://user-images.githubusercontent.com/82188274/210395876-e3170877-206b-4984-988a-23dee90a48ca.png)
 ![The Ultimate HTML 5 Cheat Sheet](https://user-images.githubusercontent.com/82188274/210396931-82ec81f2-91c1-4abc-b0e9-572e4b455d74.png)
