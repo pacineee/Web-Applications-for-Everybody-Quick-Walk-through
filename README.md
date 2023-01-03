@@ -5,8 +5,8 @@ Thanks in advance for the one who is contributing to this project!
 ### Table of Contents
 Below sections headers is to be used for quick navigation.
 
-- [Introduction](#Intro)
-- [HTML](#Html)
+- [Introduction](https://github.com/pacineee/Web-Applications-for-Everybody-Quick-Walk-through/blob/main/Introduction.md)
+- [HTML](https://github.com/pacineee/Web-Applications-for-Everybody-Quick-Walk-through/blob/main/Html.md)
 - [CSS](#CSS)
 - [JavaScript](#JavaScript)
 - [PHP](#PHP)
