@@ -17,8 +17,11 @@ PHP supports a large number of major protocols such as POP3, IMAP, and LDAP. PHP
 
 **Anatomy of an PHP syntax**
 
-Below is a pic showing anatomy of PHP scripting.
+Below is a pic showing syntax of PHP scripting.
 
+![PHP-Syntax](https://user-images.githubusercontent.com/82188274/210611489-8b8c126f-b414-4551-85b3-8a870bcee277.png)
+
+ *src:* https://www.geeksforgeeks/
 
 **Other characteristics of PHP are as follows**;
 
@@ -50,12 +53,16 @@ In order to develop and run PHP Web pages three vital components need to be inst
 
 PHP Arrays > PHP Functions > PHP Forms > PHP Objects > PHP Cookies aand Sessions >  PHP Routing, Redirect and Authentication >  Building a CRUD Application.
 
+![WA4E -PHP](https://user-images.githubusercontent.com/82188274/210612133-3c898927-172e-4b9d-b16d-cb16421de793.png)
+
+**src:** https://www.wa4e.com/lessons
+
 **N.B:** To achieve the above milestone you might also be aware of working with Databases.
-
-
 
 Final word: Learn PHP, practice PHP 
 
+![php_functions_pic](https://user-images.githubusercontent.com/82188274/210612683-c76205a0-2180-4131-aead-6b1e67c8a702.jpg)
 
+**src:** https://www.tutorialspoint.com/
 
 Never stop learning, keep improving way best.!
