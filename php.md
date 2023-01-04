@@ -3,7 +3,7 @@
 PHP is a recursive acronym for "PHP: **Hypertext Preprocessor**".
 Hence firstly it's name comes from the call "**Personal Home Page**"
 
-### What is CSS and how does it work!?
+### What is PHP and how does it work!?
 
 It is an open source that unleashed by Rasmus Lerdorf as the first version of PHP way back in 1994.
 
@@ -23,23 +23,24 @@ Below is a pic showing syntax of PHP scripting.
 
  *src:* https://www.geeksforgeeks/
 
+
 **Other characteristics of PHP are as follows**;
 
-.Simple and fast
+- Simple and fast
 
-.Efficient
+- Efficient
 
-.Secured
+- Secured
 
-.Flexible
+- Flexible
 
-.Cross-platform, it works with major operating systems like Windows, Linux, and macOS.
+- Cross-platform, it works with major operating systems like Windows, Linux, and macOS.
 
-.Open Source
+- Open Source
 
-.Powerful Library Support
+- Powerful Library Support
 
-.Database Connectivity
+- Database Connectivity
 
 In order to develop and run PHP Web pages three vital components need to be installed on your computer system.
 
@@ -55,7 +56,7 @@ PHP Arrays > PHP Functions > PHP Forms > PHP Objects > PHP Cookies aand Sessions
 
 ![WA4E -PHP](https://user-images.githubusercontent.com/82188274/210612133-3c898927-172e-4b9d-b16d-cb16421de793.png)
 
-**src:** https://www.wa4e.com/lessons
+**src:** __https://www.wa4e.com/lessons__
 
 **N.B:** To achieve the above milestone you might also be aware of working with Databases.
 
@@ -64,5 +65,7 @@ Final word: Learn PHP, practice PHP
 ![php_functions_pic](https://user-images.githubusercontent.com/82188274/210612683-c76205a0-2180-4131-aead-6b1e67c8a702.jpg)
 
 **src:** https://www.tutorialspoint.com/
+
+
 
 Never stop learning, keep improving way best.!
