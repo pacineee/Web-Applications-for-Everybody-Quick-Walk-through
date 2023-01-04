@@ -14,7 +14,7 @@ Multiple CSS declarations are separated with semicolons, and declaration blocks 
 
 **Anatomy of an CSS Styling (syntax)**
 
-Below is a pic showing anatomy of CSS styling, to style HTML *h1* element.
+Below is a pic showing anatomy of CSS styling, to style HTML *h1* element.-----------------------------------------------
 
  ![CSS Anatomy](https://user-images.githubusercontent.com/82188274/210413081-bb6fb4d3-679a-45de-bb29-979060fdeebf.gif)
  
