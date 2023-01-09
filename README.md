@@ -1,6 +1,7 @@
 # Web-Applications-for-Everybody-Quick-Walk-through
 This Repo is a recap and quick guide (Road Map) to becoming a Web Developer. Here We follow up with HTML, CSS, JavaScript on Front-End; PHP on Back-End; and SQL on Database side.
-Thanks in advance for the one who is contributing to this project!
+
+Contribution to this Repo is much appreciated!
 
 ### Table of Contents
 Below sections headers is to be used for quick navigation.
@@ -10,8 +11,9 @@ Below sections headers is to be used for quick navigation.
 - [CSS](https://github.com/pacineee/Web-Applications-for-Everybody-Quick-Walk-through/blob/main/css.md)
 - [PHP](https://github.com/pacineee/Web-Applications-for-Everybody-Quick-Walk-through/blob/main/php.md)
 - [JavaScript](https://github.com/pacineee/Web-Applications-for-Everybody-Quick-Walk-through/blob/main/js.md)
-- [SQL](#Database)
-- [Sum-Up](#Conclusion)
+- [Database (MySQL)](https://github.com/pacineee/Web-Applications-for-Everybody-Quick-Walk-through/blob/main/database.md)
+- [Hosting](#Hosting)
+- [Sum-up](#Conclusion)
 - [References](#references)
 - [License](#license)
 - [Author Info](#author-info)
@@ -19,6 +21,8 @@ Below sections headers is to be used for quick navigation.
 [Back To The Top](#Web-Applications-for-Everybody-Quick-Walk-through)
 
 ---
+
+## References
 
 ## License
 
