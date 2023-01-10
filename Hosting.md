@@ -46,6 +46,25 @@ While these are the 5 most commonly used options, there are other forms of web h
 **WordPress Hosting**
 
 WordPress Hosting simply means hosting that has been optimised for WordPress on a server level to ensure smooth sailing. 
+This means the web hosting plan is optimized to use WordPress as a CMS. 
+
+The web hosting provider has ensured their servers can run WordPress as a CMS smoothly and efficiently, and the web hosting service will handle any WordPress CMS updates or issues. WordPress is more user-friendly than other CMSs, like Joomla and Drupal, and still offers a lot of templates, widgets and plug-ins to create the best site for you.
+
+**What is CMS !?**
+
+A CMS is a tool people can use to customize their website's appearance and what content is displayed on it. You can also use a website builder to help create your site, but these builders may offer limited tools and control over how your site looks. In most cases you also don't own any of the design content on your site so it could vanish without you knowing. 
+
+With a CMS, you have greater control over how your site looks. More design tools are available through a CMS.
 
 *How is WordPress different from regular hosting?* The below image goes throught it;
 
+![2023-01-10 20_46_47-WordPress-Hosting](https://user-images.githubusercontent.com/82188274/211640699-b9cfde01-374c-4602-9b34-239480c6a42b.png)
+
+*src:* https://www.one.com/en/hosting/what-is-web-hosting
+
+**Remark:** Due to security vulnerabilities and many attacks to WordPress you may need to double check plugins or themes, 
+I recommend using security checked (tested) WordPress plugins or themes.
+
+About the web hosting providers I don't recommend any, you may need to choose from many best providers out there and I'm sure you will go with the best.
+
+Happy hosting...!
