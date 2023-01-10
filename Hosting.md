@@ -7,7 +7,7 @@ Web Hosting provides a secure place to store online content. The code, images, v
 Web hosting allows users to store content offsite, reducing local storage costs and the associated physical footprint. It also makes it easier to build a genuinely durable web presence, with built-in advantages like back-ups for security and support.
 
 
-Some web hosting happens locally via personal computers or servers, but cloud-based third-party providers are used more frequently.
+Some web hosting happens locally (**Localhost**) via personal computers or servers, but cloud-based third-party providers are used more frequently.
 
 **Ways to getting started with an online Website**
 
@@ -18,3 +18,34 @@ Some web hosting happens locally via personal computers or servers, but cloud-ba
 
 
 - Web hosting: The actual files that make up the website reside in a server maintained by your web hosting company. Again, this can be the same company as your registrar and DNS server, or you can use a different one for this part of the process.
+
+### Types of web hosting
+
+**Shared Hosting**
+Shared hosting is when a web hosting provider hosts a number of different websites on the same server. It is the most affordable form of hosting because you share the same server, so you split costs. If you are looking to start a blog or have a business that’s just starting up, then shared hosting is a good option.
+
+In the past, sharing a server could lead to problems where a spike in traffic or resource usage from a single site would slow down its “neighbouring” websites. However, these days web hosting subscriptions come with a generous amount of resources that ensure good performance.
+
+**VIRTUAL PRIVATE SERVERS**
+
+Virtual private server (VPS) hosting is similar to shared hosting, but your files are stored in a dedicated space with dedicated resources. The cost is typically higher as well, but this solution reduces the risk of sharing hardware with your provider’s other clients or subscribers.
+
+**DEDICATED HOSTING**
+
+This provides a dedicated server, which cuts the security and performance risks associated with shared hosting. You can also gain substantial functionality, though this increases the need for regular management and maintenance, and will increase costs.
+
+**MANAGED HOSTING**
+
+You have access to a dedicated server, but you don’t have the same administrative options. Managed hosting leaves security and maintenance responsibilities with your provider, leaving you to manage content via FTP (File Transfer Protocol), the rules that networked computers use when they “talk” to each other.
+
+**CLOUD HOSTING***
+
+Cloud hosting is a newer option that uses resource sharing and scale to drive down costs and reduce the risk of noticeable service disruptions. It can be more affordable compared to other options, but make sure you understand how your plan’s pricing works before committing to one.
+While these are the 5 most commonly used options, there are other forms of web hosting available. These include home servers that you set up entirely on your own. But as with any DIY tech project, make sure you do plenty of research beforehand.
+
+**WordPress Hosting**
+
+WordPress Hosting simply means hosting that has been optimised for WordPress on a server level to ensure smooth sailing. 
+
+*How is WordPress different from regular hosting?* The below image goes throught it;
+
