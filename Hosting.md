@@ -58,7 +58,7 @@ With a CMS, you have greater control over how your site looks. More design tools
 
 *How is WordPress different from regular hosting?* The below image goes throught it;
 
-![2023-01-10 20_46_47-WordPress-Hosting](https://user-images.githubusercontent.com/82188274/211640699-b9cfde01-374c-4602-9b34-239480c6a42b.png)
+![Hosting](https://user-images.githubusercontent.com/82188274/211643935-bb7d8528-6842-4ca6-8584-3f2d5973de9b.png)
 
 *src:* https://www.one.com/en/hosting/what-is-web-hosting
 
