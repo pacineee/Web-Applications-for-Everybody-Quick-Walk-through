@@ -24,6 +24,10 @@ Below sections headers is to be used for quick navigation.
 
 ## References
 
+As references there are many resources to learn, practice or improve Web Development. You can either pass in different Web technologies, Docs, Forums, early days and late nights on YouTube videos, and other sources...
+
+In this Repo as titled the best start reference is **[Web Applications for Everybody]**(https://www.wa4e.com/)
+
 ## License
 
 MIT License
